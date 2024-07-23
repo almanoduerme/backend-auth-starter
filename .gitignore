@@ -1,0 +1,4 @@
+node_modules
+.env
+.markdownlint.json
+.editorconfig
